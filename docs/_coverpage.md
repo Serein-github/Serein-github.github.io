@@ -8,7 +8,7 @@
 - 无需生成 html 文件
 - 众多主题
 
-[GitHub](https://github.com/docsifyjs/docsify/)
+[GitHub](https://github.com/Serein-github/Serein-github.github.io)
 [Get Started](/README)
 
-![color](#f0f0f0)
+![color](#f0f0f0)s

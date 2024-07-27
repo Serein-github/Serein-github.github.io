@@ -1,12 +1,8 @@
 ![logo](logo.png)
 
-# Serein's Blog <small>3.5</small>
+# Serein's Blog 
 
-> 一个神奇的文档网站生成器。
-
-- 简单、轻便 (压缩后 ~21kB)
-- 无需生成 html 文件
-- 众多主题
+> Documenting my Learning Journey.
 
 [GitHub](https://github.com/Serein-github/Serein-github.github.io)
 [Get Started](/README)

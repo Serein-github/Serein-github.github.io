@@ -1,8 +1,8 @@
 ![logo](logo.png)
 
-# Serein's Blog 
+# **Serein's Blog **
 
-> Documenting my Learning Journey.
+> *Documenting my  Full-Stack Learning Journey.*
 
 [GitHub](https://github.com/Serein-github/Serein-github.github.io)
 [Get Started](/README)

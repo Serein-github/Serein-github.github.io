@@ -1,10 +1,18 @@
-<!-- docs/_sidebar.md -->
-* [首页](/README)
-* [指南](/guide)
-* 前端技术
-  * [JavaScript](/前端/JavaScript/)
-  * [Echarts](/前端/Echarts/)
-* 后端技术
-* 软件或工具使用
-  * [markdown](/软件或工具使用/markdown/)
-  * [Latex](/软件或工具使用/Latex)
+* * [指南](/guide)
+  * 前端技术
+    * [JavaScript](/前端/JavaScript/)
+    * [Echarts](/前端/Echarts/)
+  * 后端技术
+  * 软件或工具使用
+    * [Markdown](/软件或工具使用/markdown/)
+    * [Latex](/软件或工具使用/Latex)
+  * 编程语言
+    * [C](/编程语言/C/)
+    * [C++](/编程语言/C++/)
+    * [Java](/编程语言/Java/)
+    * [Matlab](/编程语言/Matlab/)
+    * [Python](/编程语言/Python/)
+  
+  * 嵌入式
+    * [C51](/嵌入式/C51/)
+    * [STM32](/嵌入式/STM32/)

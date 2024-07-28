@@ -1,3 +1,5 @@
+
+
 # Markdown使用说明
 
 ## 标题
@@ -119,6 +121,8 @@
 > Ctrl+Shift+Q
 >
 > 取消是按两下Enter
+>
+> 可以嵌套，>>
 
 ## 代码显示
 
@@ -178,10 +182,62 @@
 > 下方插入行：Ctrl+Enter
 >
 > 删除当前行： Ctrl+ Shift+Backspace
+>
+> 要添加表，请使用三个或多个连字符（`---`）创建每列的标题，并使用管道（`|`）分隔每列。您可以选择在表的任一端添加管道。
+>
+> ```text
+> | Syntax      | Description |
+> | ----------- | ----------- |
+> | Header      | Title       |
+> | Paragraph   | Text        |
+> ```
+
+### 对齐
+
+> 在标题行中的连字符的左侧，右侧或两侧添加冒号（`:`），将列中的文本对齐到左侧，右侧或中心。
+>
+> ```markdown
+> | Syntax      | Description | Test Text     |
+> | :---        |    :----:   |          ---: |
+> | Header      | Title       | Here's this   |
+> | Paragraph   | Text        | And more      |
+> ```
+>
+> 
 
 ## 流程图
 
+>````
+><!-- 此处的内容会被渲染成 mermaid 图形 -->
+>```mermaid
+>```
+>````
+
+> 基本的流程图包含：流程图布局方向、几何图形和连接线三个部分组成。
+
 ### 横向
+
+>````
+>```mermaid
+>graph LR
+>    开始 --> 结束
+>```
+>````
+
+> ```mermaid
+> graph LR
+>     开始 --> 结束
+> ```
+
+### 竖向
+
+>| 标志 |         方向          |
+>| :--: | :-------------------: |
+>|  TB  | top bottom - 从上到下 |
+>|  BT  | bottom top - 从下到上 |
+>|  RL  | right left - 从右到左 |
+
+
 
 ## 表情符号
 

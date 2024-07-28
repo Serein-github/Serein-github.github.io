@@ -1,6 +1,6 @@
 ![logo](logo.png)
 
-# **Serein's Blog** 
+# Serein's Blog
 
 > *Documenting my  Full-Stack Learning Journey.*
 
